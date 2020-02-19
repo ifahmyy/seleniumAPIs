@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b06a6c7-af16-450c-8972-8b9119a49215" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WkkDFsAvkAR12NGCWZikKyjUBg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="TestNG.ExplicityWait.testImplicityWait">
+    <configuration name="ExplicityWait" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="deepdivelogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumapis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumapis" />
+      <option name="MAIN_CLASS_NAME" value="seleniumapis.ExplicityWait" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplicityWait.testImplicityWait" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="deepdivelogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumapis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumapis" />
+      <option name="MAIN_CLASS_NAME" value="seleniumapis.ExplicityWait" />
+      <option name="METHOD_NAME" value="testImplicityWait" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindElementByName.findElement" type="TestNG" nameIsGenerated="true">
+      <module name="deepdivelogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finding.elements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="finding.elements" />
+      <option name="MAIN_CLASS_NAME" value="finding.elements.FindElementByName" />
+      <option name="METHOD_NAME" value="findElement" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindElementsByID.findElement" type="TestNG" nameIsGenerated="true">
+      <module name="deepdivelogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finding.elements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="finding.elements" />
+      <option name="MAIN_CLASS_NAME" value="finding.elements.FindElementsByID" />
+      <option name="METHOD_NAME" value="findElement" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCookies" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="deepdivelogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumapis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumapis" />
+      <option name="MAIN_CLASS_NAME" value="seleniumapis.TestCookies" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCookies.testCookies" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="deepdivelogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumapis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumapis" />
+      <option name="MAIN_CLASS_NAME" value="seleniumapis.TestCookies" />
+      <option name="METHOD_NAME" value="testCookies" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestImplicityWait" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="deepdivelogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumapis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumapis" />
+      <option name="MAIN_CLASS_NAME" value="seleniumapis.TestImplicityWait" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkingWithTextBoxAndButtons.loginScreen" type="TestNG" nameIsGenerated="true">
+      <module name="deepdivelogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="working.with.elements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="working.with.elements" />
+      <option name="MAIN_CLASS_NAME" value="working.with.elements.WorkingWithTextBoxAndButtons" />
+      <option name="METHOD_NAME" value="loginScreen" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ExplicityWait.testImplicityWait" />
+        <item itemvalue="TestNG.ExplicityWait" />
+        <item itemvalue="TestNG.TestImplicityWait" />
+        <item itemvalue="TestNG.TestCookies.testCookies" />
+        <item itemvalue="TestNG.TestCookies" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b06a6c7-af16-450c-8972-8b9119a49215" name="Default Changelist" comment="" />
+      <created>1579700858806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579700858806</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="383" y="28" width="598" height="737" key="#FindElementByName.findElement" timestamp="1579777265065">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="383" y="28" width="598" height="737" key="#FindElementByName.findElement/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1579777265065" />
+    <state x="383" y="28" width="598" height="737" key="#FindElementsByID.findElement" timestamp="1579772727083">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="383" y="28" width="598" height="737" key="#FindElementsByID.findElement/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1579772727083" />
+    <state x="383" y="45" width="598" height="703" key="#SpreagoLoginPage" timestamp="1580725161308">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="383" y="28" width="598" height="737" key="#SpreagoLoginPage.loginScreen" timestamp="1580725113052">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="383" y="28" width="598" height="737" key="#SpreagoLoginPage.loginScreen/0.27.1366.741@0.27.1366.741" timestamp="1580725113052" />
+    <state x="383" y="45" width="598" height="703" key="#SpreagoLoginPage/0.27.1366.741@0.27.1366.741" timestamp="1580725161308" />
+    <state x="383" y="28" width="598" height="737" key="#WorkingWithTextBoxAndButtons.loginScreen" timestamp="1580722510559">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="383" y="28" width="598" height="737" key="#WorkingWithTextBoxAndButtons.loginScreen/0.27.1366.741@0.27.1366.741" timestamp="1580722510559" />
+    <state x="141" y="53" width="1081" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579701998112">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="53" width="1081" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1579701998112" />
+    <state x="366" y="125" width="632" height="543" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581944352276">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="366" y="125" width="632" height="543" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1581944352276" />
+    <state width="1320" height="126" key="GridCell.Tab.0.bottom" timestamp="1582102542178">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="126" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1582102542178" />
+    <state width="1320" height="174" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1580726875038" />
+    <state width="1320" height="177" key="GridCell.Tab.0.bottom/0.27.3286.1053@0.27.3286.1053" timestamp="1580118101663" />
+    <state width="1320" height="126" key="GridCell.Tab.0.center" timestamp="1582102542178">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="126" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1582102542178" />
+    <state width="1320" height="174" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1580726875038" />
+    <state width="1320" height="177" key="GridCell.Tab.0.center/0.27.3286.1053@0.27.3286.1053" timestamp="1580118101663" />
+    <state width="1320" height="126" key="GridCell.Tab.0.left" timestamp="1582102542178">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="126" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1582102542178" />
+    <state width="1320" height="174" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1580726875038" />
+    <state width="1320" height="177" key="GridCell.Tab.0.left/0.27.3286.1053@0.27.3286.1053" timestamp="1580118101662" />
+    <state width="1320" height="126" key="GridCell.Tab.0.right" timestamp="1582102542178">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="126" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1582102542178" />
+    <state width="1320" height="174" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1580726875038" />
+    <state width="1320" height="177" key="GridCell.Tab.0.right/0.27.3286.1053@0.27.3286.1053" timestamp="1580118101663" />
+    <state width="1320" height="222" key="GridCell.Tab.1.bottom" timestamp="1581018218321">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="222" key="GridCell.Tab.1.bottom/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1581018218321" />
+    <state width="1320" height="222" key="GridCell.Tab.1.center" timestamp="1581018218320">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="222" key="GridCell.Tab.1.center/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1581018218320" />
+    <state width="1320" height="222" key="GridCell.Tab.1.left" timestamp="1581018218320">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="222" key="GridCell.Tab.1.left/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1581018218320" />
+    <state width="1320" height="222" key="GridCell.Tab.1.right" timestamp="1581018218320">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="222" key="GridCell.Tab.1.right/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1581018218320" />
+    <state x="187" y="31" width="992" height="732" key="SettingsEditor" timestamp="1581585030661">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="187" y="31" width="992" height="732" key="SettingsEditor/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1581585030661" />
+    <state x="144" y="133" width="672" height="478" key="search.everywhere.popup" timestamp="1580724848181">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="144" y="133" width="672" height="478" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1580724848181" />
+    <state x="346" y="177" width="672" height="678" key="search.everywhere.popup/0.27.3286.1053@0.27.3286.1053" timestamp="1580116318696" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/seleniumapis/ActionsDoubleClick.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
